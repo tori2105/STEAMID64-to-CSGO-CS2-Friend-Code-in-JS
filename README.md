@@ -12,8 +12,8 @@ function calculateMD5_hex(uint8Array) {
 return md5(uint8Array);
 }
 </script>
-<script src="byteswap.js"></script>
-<script src="friendcode.js"></script>
+<script src="https://raw.githubusercontent.com/tori2105/STEAMID64-to-CSGO-CS2-Friend-Code-in-JS/refs/heads/main/byteswap.js"></script>
+<script src="https://raw.githubusercontent.com/tori2105/STEAMID64-to-CSGO-CS2-Friend-Code-in-JS/refs/heads/main/friendcode.js"></script>
 ```
 
 ### Commands
