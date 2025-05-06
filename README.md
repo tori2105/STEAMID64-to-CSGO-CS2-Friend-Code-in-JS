@@ -16,7 +16,7 @@ return md5(uint8Array);
 <script src="https://raw.githubusercontent.com/tori2105/STEAMID64-to-CSGO-CS2-Friend-Code-in-JS/refs/heads/main/friendcode.js"></script>
 ```
 
-### Commands
+### Example commands
 <span>Convert SteamID64 to CS Friend Code</span>
 ```
 console.log(FriendCode.encode("STEAMID64"))
